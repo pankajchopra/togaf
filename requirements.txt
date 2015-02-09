@@ -1,0 +1,16 @@
+Defines pragmatic technical solutions that fulfill specific business objectives and service level agreements (SLAs), while balancing important concerns such as adherence to established practices, alignment with enterprise strategy and accountability to Prime’s financial objectives. 
+
+Responsibilities - • Effectively collaborate with stakeholders (business sponsors, IT leadership, subject matter experts, domain architects, enterprise architecture, project management, etc.) in producing sound architectural solutions on projects of high complexity.
+• Lead the creation of conceptual and logical specifications for all layers of a technology solution through collaboration with application, security and infrastructure architects. 
+• Maintain alignment with enterprise strategy, reference architecture and other guidelines produced by the Architecture Office. 
+• Other duties as assigned. 
+
+Required Qualifications - • Bachelor’s degree in Computer Science, Software Engineering or related field (or equivalent knowledge of relevant technology fundamentals) 
+• Six years as a software developer and/or application architect plus four years as a solution architect with experience that includes custom web solutions, B2B integrations and commercial off-the-shelf (COTS) implementations. 
+
+Additional Qualifications - • Five years experience leading the design of entire solutions, including such tasks as addressing cross-domain concerns, identifying system integration points and solving complex interdependencies across solution layers. 
+• Demonstrated experience handling a variety of solution types, such as new system builds, legacy enhancements, build vs. buy analysis, deploying COTS software packages, etc. 
+• Expert collaborator with business and technical colleagues, adept at building rapport. 
+• Solid awareness the objectives and concerns in each of the Software Development Life Cycle phases. 
+
+Preferred Qualifications - • Experience in the PBM and/or Health care domain
