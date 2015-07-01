@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2839</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e3a923e3-2b6d-4f08-b717-b82971359732</dc:identifier>
+        <dc:title>The Confidence Code: The Science and Art of Self-Assurance---What Women Should Know</dc:title>
+        <dc:creator opf:file-as="Kay, Katty" opf:role="aut">Kay, Katty</dc:creator>
+        <dc:creator opf:file-as="Kay, Katty" opf:role="aut">Shipman, Claire</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.42) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-04-15T00:00:00+00:00</dc:date>
+        <dc:description>&lt;b&gt;Uploaded by [StormRG]&lt;/b&gt;</dc:description>
+        <dc:publisher>HarperCollins</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780062230645</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">B00DB368AY</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Kay, Katty&quot;: &quot;&quot;, &quot;Shipman, Claire&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="0.0" name="calibre:rating"/>
+        <meta content="2014-05-15T07:12:49+00:00" name="calibre:timestamp"/>
+        <meta content="Confidence Code: The Science and Art of Self-Assurance---What Women Should Know, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Confidence Code_ The Science and Art of Self-Assurance--at Women Should Know, The - Kay, Katty &amp; Shipman, Claire.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>
